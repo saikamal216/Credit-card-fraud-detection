@@ -1,6 +1,10 @@
 # Credit-card-fraud-detection
 - This code performs credit card fraud detection using machine learning.
 
+# Dataset 
+- Drive =  https://drive.google.com/file/d/1YzUKVxvMFG4o1-E9kcG5NadntQVA_YeC/view?usp=sharing
+- Dataset collected form dataworld.com = https://data.world/vlad/credit-card-fraud-detection
+
 # 1. Data Loading & Pre-processing:
   - It loads the credit card transaction dataset (CC.csv).
   - It explores the data using data.head() and data.info().
